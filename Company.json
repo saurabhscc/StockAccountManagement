@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Whatsapp",
+    "NumberOfShares": 10.0,
+    "Amount": 4000.0,
+    "Symbol": "W",
+    "DateTime": "2021-08-02 17:58:00"
+  },
+  {
+    "Name": "Instagram",
+    "NumberOfShares": 20.0,
+    "Amount": 5000.0,
+    "Symbol": "I",
+    "DateTime": "2021-08-02 18:12:56"
+  },
+  {
+    "Name": "Facebook",
+    "NumberOfShares": 2.0,
+    "Amount": 10000.0,
+    "Symbol": "F",
+    "DateTime": "2021-08-02 18:14:54"
+  }
+  ]
